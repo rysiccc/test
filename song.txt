@@ -6,6 +6,7 @@ trzecia
 czwarta
 
 cos nowego!
+<<<<<<< HEAD
 zzz
 xyz
 <<<<<<< HEAD
@@ -13,3 +14,5 @@ abc
 nnn
 =======
 >>>>>>> refs/remotes/origin/main
+=======
+>>>>>>> parent of 77da14c (a)
