@@ -19,3 +19,5 @@ nnn
 feature
 feature2
 sssong
+konflikt
+kkonflikt
