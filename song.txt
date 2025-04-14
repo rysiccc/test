@@ -8,5 +8,8 @@ czwarta
 cos nowego!
 zzz
 xyz
+<<<<<<< HEAD
 abc
 nnn
+=======
+>>>>>>> refs/remotes/origin/main
